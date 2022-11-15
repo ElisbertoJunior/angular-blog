@@ -1,0 +1,9 @@
+
+
+.container__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 1.25rem;
+  list-style-type: none;
+  align-items: center;
+}
