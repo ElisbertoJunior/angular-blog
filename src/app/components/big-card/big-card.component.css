@@ -1,5 +1,5 @@
 .container__big-card {
-  border: solid white 1px;
+
   width: 50%;
   height: 31.25rem;
   display: flex;
@@ -7,14 +7,20 @@
   align-items: flex-start;
   justify-content: flex-start;
   margin: 0 0.625rem;
+
 }
 
 .big-card__title > h1 {
-  margin: 0.625rem 0;
+  margin: 1.25rem 0;
   font-size: 1.25rem;
-
 }
+
+
 
 .big-card__description > p {
   color: grey;
+}
+
+.big-card__photo > img  {
+  width: 100%;
 }
