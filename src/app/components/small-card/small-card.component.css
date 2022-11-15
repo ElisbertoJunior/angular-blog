@@ -1,0 +1,28 @@
+.container__small-card {
+  width: 100%;
+}
+
+.container__small-card-content {
+  display: flex;
+  flex-direction: row;
+  gap: 1.25rem;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0.625rem;
+}
+
+.small-card__photo > img {
+  width: 12.5rem;
+}
+
+.small-card__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container__small-card___separator {
+  margin: 0.625rem 0;
+}
+
+
