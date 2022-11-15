@@ -9,4 +9,6 @@ body {
   background-color: #111111;
   max-width: 92.5rem;
   margin: auto;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
