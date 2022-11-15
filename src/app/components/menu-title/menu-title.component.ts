@@ -10,6 +10,7 @@ export class MenuTitleComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
   }
 
 }
