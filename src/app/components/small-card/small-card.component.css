@@ -9,6 +9,7 @@
   align-items: center;
   justify-content: center;
   padding-bottom: 0.625rem;
+
 }
 
 .small-card__photo > img {
@@ -19,6 +20,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 0.625rem;
 }
 
 .container__small-card___separator {
