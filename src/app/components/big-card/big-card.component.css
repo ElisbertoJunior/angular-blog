@@ -15,7 +15,7 @@
 
 
 
-.big-card__description > p {
+.big-card__description > p a {
   color: grey;
 }
 
