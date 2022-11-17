@@ -1,0 +1,21 @@
+.container__content {
+  border: 1px solid white;
+  max-width: 80rem;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.25rem;
+
+  align-items: center;
+}
+
+.content__cover > img {
+  max-width: 31.25rem;
+  border-radius: 0.313rem;
+  border: 5px solid rgb(144, 144, 144);
+}
+
+.content__description {
+  margin: 0.938rem 0;
+  color: gray;
+}
