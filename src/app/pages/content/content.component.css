@@ -1,5 +1,5 @@
 .container__content {
-  border: 1px solid white;
+
   max-width: 80rem;
   margin: auto;
   display: flex;
@@ -7,6 +7,7 @@
   margin-top: 1.25rem;
 
   align-items: center;
+  text-align: center;
 }
 
 .content__cover > img {
@@ -16,6 +17,11 @@
 }
 
 .content__description {
+
   margin: 0.938rem 0;
   color: gray;
+}
+
+.content__description > p {
+  margin-top: 1.25rem;
 }
