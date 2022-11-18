@@ -8,7 +8,7 @@ import { dataFake } from 'src/app/data/dataFake';
   styleUrls: ['./content.component.css']
 })
 export class ContentComponent implements OnInit {
-  photoCover: string | null = ''
+  photoCover: string  = ''
   contentTitle: string = ''
   contentDescription: string = ''
   private id: string | null = ''
